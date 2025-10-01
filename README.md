@@ -12,7 +12,7 @@ This project demonstrates voice pathology analysis using **YAMNet**, a pre-train
 
 https://www.kaggle.com/datasets/pranaykoppula/torgo-audio
 
-## The workflow:
+## The workflow
 
 1. Dataset preparation (structured in folders per class)  
 2. Feature extraction using YAMNet embeddings  
