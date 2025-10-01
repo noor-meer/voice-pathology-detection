@@ -8,6 +8,10 @@ Always consult healthcare professionals for medical concerns.
 
 This project demonstrates voice pathology analysis using **YAMNet**, a pre-trained deep learning model for audio event detection. The model analyzes voice recordings to identify potential vocal disorders and pathologies.
 
+## Dataset from Kaggle
+
+https://www.kaggle.com/datasets/pranaykoppula/torgo-audio
+
 ## The workflow:
 
 1. Dataset preparation (structured in folders per class)  
